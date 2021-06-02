@@ -29,42 +29,42 @@ NISLABのメンバーであれば自由に利用可能です。
 
 ### NISLAB
 
-![NISLAB](svg/nislab-wide.svg)
+![NISLAB](svg/nislab/nislab-wide.svg)
 
 ![#c5f015](https://via.placeholder.com/10/0084b4/000000?text=+) `#0084b4`
 ![#1589F0](https://via.placeholder.com/10/80cde8/000000?text=+) `#80cde8`
 
 ### NISROOM
 
-![NISROOM](svg/nisroom-wide.svg)
+![NISROOM](svg/nisroom/nisroom-wide.svg)
 
 ![#c5f015](https://via.placeholder.com/10/e2844a/000000?text=+) `#e2844a`
 ![#1589F0](https://via.placeholder.com/10/f1c279/000000?text=+) `#f1c279`
 
 ### NISRECO
 
-![NISRECO](svg/nisreco-wide.svg)
+![NISRECO](svg/nisreco/nisreco-wide.svg)
 
 ![#c5f015](https://via.placeholder.com/10/ab535f/000000?text=+) `#ab535f`
 ![#1589F0](https://via.placeholder.com/10/ffb2ac/000000?text=+) `#ffb2ac`
 
 ### NISWIKI
 
-![NISWIKI](svg/niswiki-wide.svg)
+![NISWIKI](svg/niswiki/niswiki-wide.svg)
 
 ![#c5f015](https://via.placeholder.com/10/497458/000000?text=+) `#497458`
 ![#1589F0](https://via.placeholder.com/10/b2c9a5/000000?text=+) `#b2c9a5`
 
 ### NISPASS
 
-![NISPASS](svg/nispass-wide.svg)
+![NISPASS](svg/nispass/nispass-wide.svg)
 
 ![#c5f015](https://via.placeholder.com/10/333333/000000?text=+) `#333333`
 ![#1589F0](https://via.placeholder.com/10/b3b3b3/000000?text=+) `#b3b3b3`
 
 ### NISPLAN
 
-![NISPLAN](svg/nisplan-wide.svg)
+![NISPLAN](svg/nisplan/nisplan-wide.svg)
 
 ![#e7bc00](https://via.placeholder.com/10/e7bc00/000000?text=+) `#e7bc00`
 ![#f5dc7b](https://via.placeholder.com/10/f5dc7b/000000?text=+) `#f5dc7b`
